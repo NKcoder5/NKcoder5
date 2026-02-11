@@ -24,11 +24,11 @@
 
 <table border="0">
   <tr>
-    <td width="70%">
+    <td width="65%">
       <p>I'm a passionate <b>Full-Stack Developer</b> and <b>AI Enthusiast</b> dedicated to turning innovative ideas into real-world solutions. With a strong academic background (<b>9.08 CGPA</b>) and multiple hackathon wins, I thrive on solving complex problems.</p>
       <p><b>Current Focus:</b> AI-Powered Applications, System Design, and LLM Integration ✨</p>
     </td>
-    <td width="30%" align="center">
+    <td width="35%" align="center">
       <img src="./gifs/gojo_nerd.gif" width="200" />
     </td>
   </tr>
