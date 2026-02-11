@@ -1,12 +1,10 @@
-<br/>
-
 <table border="0">
   <tr>
-    <td width="35%" align="center" valign="middle">
+    <td width="30%" align="center" valign="middle">
       <img src="./gifs/gojo_hi.gif" width="100%" />
     </td>
-    <td width="65%" valign="top">
-      <h1>👋 Hey, I'm Nandha kumar S</h1>
+    <td width="70%" valign="top">
+      <h1>👋 Hey, I'm Nandha Kumar S</h1>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=false&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;AI+%26+LLM+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Problem+Solver+%7C+9.08+CGPA" alt="Typing SVG" />
       <h3>🎓 Computer Science Engineering</h3>
       <p><b>Kongu Engineering College</b></p>
@@ -19,8 +17,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
 
 ---
 
@@ -140,38 +136,23 @@
   </tr>
 </table>
 
----
 
-## 📊 GitHub Stats
+---
 
 <table border="0" width="100%">
   <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="./gifs/gojo_goofy.gif" width="100%" />
-    </td>
-    <td width="70%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NKcoder5&theme=tokyonight" width="100%" alt="NKcoder5" />
-    </td>
-  </tr>
-</table>
-
----
-
-<table border="0">
-  <tr>
-    <td width="70%" align="left" valign="top">
+    <td width="65%" align="left" valign="top">
       <h2>📫 Let's Connect!</h2>
-      <p>I'm always open to interesting conversations and collaboration opportunities!</p>
       <p>
-        <a href="https://linkedin.com/in/nandha-kumar-s-842a74320"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="mailto:nandhakumar4115@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-        <a href="https://nandhakumars-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+        <a href="https://linkedin.com/in/nandha-kumar-s-842a74320"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:nandhakumar4115@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+        <a href="https://instagram.com/nuox_nk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
       </p>
+      <p>I'm always open to interesting conversations and collaboration opportunities! ✨</p>
       <br/>
       <p>💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House</p>
-      <img src="https://komarev.com/ghpvc/?username=NKcoder5&color=3B82F6&style=flat-square" alt="Profile Views" />
     </td>
-    <td width="30%" align="center" valign="bottom">
+    <td width="35%" align="center" valign="bottom">
       <img src="./gifs/gojo_bye.gif" width="100%" />
     </td>
   </tr>
