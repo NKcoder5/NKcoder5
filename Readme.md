@@ -4,7 +4,7 @@
       <img src="./gifs/gojo_hi.gif" width="100%" />
     </td>
     <td width="70%" valign="top">
-      <h1>👋 Hey, I'm Nandha Kumar S</h1>
+      <h1>👋 Hey, I'm Nandha kumar S</h1>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=false&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;AI+%26+LLM+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Problem+Solver+%7C+9.08+CGPA" alt="Typing SVG" />
       <h3>🎓 Computer Science Engineering</h3>
       <p><b>Kongu Engineering College</b></p>
