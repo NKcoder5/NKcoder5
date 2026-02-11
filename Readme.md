@@ -137,7 +137,27 @@
 </table>
 
 
+
 ---
+
+## 📊 GitHub Stats
+
+<table border="0" width="100%">
+  <tr>
+    <td width="23%" align="center" valign="middle">
+      <img src="./gifs/gojo_goofy.gif" width="100%" />
+    </td>
+    <td width="54%" align="center" valign="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NKcoder5&theme=tokyonight" width="100%" alt="NKcoder5" />
+    </td>
+    <td width="23%" align="center" valign="middle">
+      <img src="./gifs/gojo_humble.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
 
 <table border="0" width="100%">
   <tr>
