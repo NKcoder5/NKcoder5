@@ -94,7 +94,7 @@
       <a href="https://e-buddy-deployed-1.onrender.com"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel" alt="Live" /></a>
     </td>
     <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJocXQ4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKDkDbIDJ98CDQU/giphy.gif" width="100%" />
+      <video src="./videos/e-buddy.mp4" width="100%" autoplay loop muted playsinline></video>
     </td>
   </tr>
 </table>
@@ -105,7 +105,7 @@
 <table border="0">
   <tr>
     <td width="50%" align="center">
-       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJocXQ4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKDkDbIDJ98CDQU/giphy.gif" width="100%" />
+       <video src="./videos/news_curator.mp4" width="100%" autoplay loop muted playsinline></video>
     </td>
     <td width="50%">
       <h3>📰 News Curator Platform</h3>
@@ -131,7 +131,7 @@
       <a href="https://sociogram-mongodb-1.onrender.com"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel" alt="Live" /></a>
     </td>
     <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJocXQ4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4Z3B4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKDkDbIDJ98CDQU/giphy.gif" width="100%" />
+      <video src="./videos/sociogram.mp4" width="100%" autoplay loop muted playsinline></video>
     </td>
   </tr>
 </table>
