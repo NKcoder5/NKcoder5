@@ -95,7 +95,7 @@
     </td>
     <td width="50%" align="center">
       <video width="100%" autoplay loop muted playsinline>
-        <source src="https://raw.githubusercontent.com/NKcoder5/Nandha_Profile/main/videos/e-buddy.mp4" type="video/mp4">
+        <source src="./videos/e-buddy.mp4" type="video/mp4">
       </video>
     </td>
   </tr>
@@ -108,7 +108,7 @@
   <tr>
     <td width="50%" align="center">
       <video width="100%" autoplay loop muted playsinline>
-        <source src="https://raw.githubusercontent.com/NKcoder5/Nandha_Profile/main/videos/news_curator.mp4" type="video/mp4">
+        <source src="./videos/news_curator.mp4" type="video/mp4">
       </video>
     </td>
     <td width="50%">
@@ -136,7 +136,7 @@
     </td>
     <td width="50%" align="center">
       <video width="100%" autoplay loop muted playsinline>
-        <source src="https://raw.githubusercontent.com/NKcoder5/Nandha_Profile/main/videos/sociogram.mp4" type="video/mp4">
+        <source src="./videos/sociogram.mp4" type="video/mp4">
       </video>
     </td>
   </tr>
