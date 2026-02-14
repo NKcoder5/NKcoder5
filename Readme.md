@@ -94,9 +94,7 @@
       <a href="https://e-buddy-deployed-1.onrender.com"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel" alt="Live" /></a>
     </td>
     <td width="50%" align="center">
-      <video width="100%" autoplay loop muted playsinline>
-        <source src="./videos/e-buddy.mp4" type="video/mp4">
-      </video>
+      <video src="https://github.com/NKcoder5/Nandha_Profile/raw/main/videos/e-buddy.mp4" width="100%" autoplay loop muted playsinline></video>
     </td>
   </tr>
 </table>
@@ -107,9 +105,7 @@
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <video width="100%" autoplay loop muted playsinline>
-        <source src="./videos/news_curator.mp4" type="video/mp4">
-      </video>
+      <video src="https://github.com/NKcoder5/Nandha_Profile/raw/main/videos/news_curator.mp4" width="100%" autoplay loop muted playsinline></video>
     </td>
     <td width="50%">
       <h3>📰 News Curator Platform</h3>
@@ -135,9 +131,7 @@
       <a href="https://sociogram-mongodb-1.onrender.com"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel" alt="Live" /></a>
     </td>
     <td width="50%" align="center">
-      <video width="100%" autoplay loop muted playsinline>
-        <source src="./videos/sociogram.mp4" type="video/mp4">
-      </video>
+      <video src="https://github.com/NKcoder5/Nandha_Profile/raw/main/videos/sociogram.mp4" width="100%" autoplay loop muted playsinline></video>
     </td>
   </tr>
 </table>
